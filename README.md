@@ -32,12 +32,3 @@ Based upon this data dwh will be made with fact and dimension tables.
 - with data frame head function we take a look on the data in the files
 - necessary column are picked from each data file for the purpose of further analysis
 
-## Data exploration
-
-For this purpose python lybrary pandas is beeing used.
-
-
-
-
-
-
